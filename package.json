@@ -1,0 +1,13 @@
+{
+  "name": "saltcorn-test-plugin",
+  "version": "0.1.0",
+  "description": "A saltcorn test plugin",
+  "main": "index.js",
+  "dependencies": {},
+  "author": "Aodhan Hamilton",
+  "license": "MIT",
+  "repository": "github:MVAodhan/saltcorn-test-plugin",
+  "publishConfig": {
+    "access": "public"
+  }
+}
